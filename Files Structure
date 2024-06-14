@@ -1,0 +1,6 @@
+main.py: Main entry point of the application.
+task.py: Class definition for the Task object.
+database.py: Database operations for storing and retrieving task data.
+cli.py: Command-line interface implementation.
+README.md: Documentation for the project.
+LICENSE: License information for the project.
